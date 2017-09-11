@@ -1,0 +1,2 @@
+# static-website-in-php
+It is a static website, project which can use, for commercial, and non-commercial both uses, it contents many features, and extension is php, because, in html we have to write same code into every page, but here, with the help of the .php extension, we don't need to do write such kind of  codes, multiple times. It is free ware, anyone can use this by replacing, the details.
